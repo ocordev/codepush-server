@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@bravemobile/react-native-code-push": "^12.2.0",
+    "@react-native-community/cli": "^20.0.2"
+  },
+  "dependencies": {
+    "@types/node": "^24.10.1",
+    "axios": "^1.13.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
