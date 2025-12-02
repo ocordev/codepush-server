@@ -1,1 +1,8 @@
-{"1.0":{"enabled":true,"mandatory":false,"downloadUrl":"https://ocordev.github.io/codepush-server/bundles/android/staging/build/releaseFiles/bundleOnly/index.android.bundle","packageHash":"index.android.bundle"}}
+{
+  "1.0": {
+    "enabled": true,
+    "mandatory": false,
+    "downloadUrl": "https://ocordev.github.io/codepush-server/bundles/android/staging/build/releaseFiles/bundleOnly/index.android.bundle",
+    "packageHash": "8ca7a9abb734f0bf9bd4667dfbd33fa2b796cf001b345f477a4e5a5f73966f0f"
+  }
+}
